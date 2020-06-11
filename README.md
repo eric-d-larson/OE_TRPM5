@@ -4,7 +4,7 @@ Analysis code will be available by time of publication
 
 Data will be public via NCBI SRA by time of publication under project accession: PRJNA632936
 
-BioRXIV link: https://www.biorxiv.org/content/10.1101/2020.05.14.096016v1
+BioRXIV link: https://www.biorxiv.org/content/10.1101/2020.05.14.096016v2
 
 # Methods overview  
 
