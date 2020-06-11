@@ -2,9 +2,9 @@
 
 Analysis code will be available by time of publication
 
-Data will be deposited to NCBI GEO by time of publication. GEOXXXXXXX
+Data will be public via NCBI SRA by time of publication under project accession: PRJNA632936
 
-BioRXIV link: 
+BioRXIV link: https://www.biorxiv.org/content/10.1101/2020.05.14.096016v1
 
 # Methods overview  
 
