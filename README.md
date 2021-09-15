@@ -6,6 +6,8 @@ Data will be public via NCBI SRA by time of publication under project accession:
 
 BioRXIV link: https://www.biorxiv.org/content/10.1101/2020.05.14.096016v2
 
+This study is now published: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07528-y
+
 # Methods overview  
 
 Demultiplexed paired-end FASTQ were obtained from the University of Colorado Genomics and Microarray Core. Adapter sequences were removed and low quality bases were trimmed using BBDuk (BBTools).
